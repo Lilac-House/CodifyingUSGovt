@@ -500,7 +500,7 @@ export const governorDataRequirements: { stateName: string, short_code: string, 
         },
     },
     {
-        stateName: "Missippissi",
+        stateName: "Mississippi",
         short_code: "MS",
         requirementShortList: [
             REQUIREMENT_TYPE.AGE,
@@ -791,7 +791,7 @@ export const governorDataRequirements: { stateName: string, short_code: string, 
         },
     },
     {
-        stateName: "Rhode Islad",
+        stateName: "Rhode Island",
         short_code: "RI",
         requirementShortList: [
             REQUIREMENT_TYPE.AGE,
